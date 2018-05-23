@@ -7,7 +7,7 @@
 
 **Author**: Ian Brooks \
 **Follow** [LinkedIn - Ian Brooks PhD] (https://www.linkedin.com/in/ianrbrooksphd/) \
-**HCC Article** [Link] (https://community.hortonworks.com/articles/192367/connecting-solr-to-spark-apache-zeppelin-notebook.html) \
+**HCC Article** [Link] (https://community.hortonworks.com/articles/192367/connecting-solr-to-spark-apache-zeppelin-notebook.html) 
 
 Instructions:
 1. Please follow this [tutorial](https://community.hortonworks.com/articles/1282/sample-hdfnifi-flow-to-push-tweets-into-solrbanana.html) to build the Solr collection 'tweets'

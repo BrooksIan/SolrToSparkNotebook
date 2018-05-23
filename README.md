@@ -1,3 +1,5 @@
+# Connecting Apache Solr to Apache Spark
+
 **Language**: Scala
 **Requirements**: 
 - [HDP 2.6.X]

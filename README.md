@@ -13,5 +13,5 @@ Instructions:
 
 2. Upload the notebook (JSON File) to Apache Zeppelin. 
 
-3. Match the version of Spark with the SolrSpark Conntector. The version list is included in [here](https://github.com/lucidworks/spark-solr)
+3. Match the version of Spark with the SolrSpark Connector. The version list is included in [here.](https://github.com/lucidworks/spark-solr)
 
